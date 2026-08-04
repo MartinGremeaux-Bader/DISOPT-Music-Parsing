@@ -1,7 +1,7 @@
 
 # Musical Parsing with the help of a Context-Free Grammar
 
-TESTTESTTESTT
+
 ## Principle
 
 The goal of all this is to help analyse music by parsing pieces with the help of a context-free grammar, such as [this one](https://docdrop.org/download_annotation_doc/Rohrmeier---2020---The-Syntax-of-Jazz-Harmony-Diatonic-Tonal-b6eoz.pdf)  (by [Martin Rohrmeier](https://people.epfl.ch/martin.rohrmeier?lang=en))
@@ -33,4 +33,4 @@ See USAGE.md for more informations specific to the current state of the code.
 
 
 
-# DISOPT-Music-Parsing
+
