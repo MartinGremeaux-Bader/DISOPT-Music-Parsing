@@ -4,7 +4,7 @@
 
 ## Principle
 
-The goal of all this is to help analyse music by parsing pieces with the help of a context-free grammar, such as [this one](https://docdrop.org/download_annotation_doc/Rohrmeier---2020---The-Syntax-of-Jazz-Harmony-Diatonic-Tonal-b6eoz.pdf)  (by [Martin Rohrmeier](https://people.epfl.ch/martin.rohrmeier?lang=en))
+The goal of all this is to help analyse music by parsing pieces with the help of a context-free grammar, such as [this one](https://docdrop.org/download_annotation_doc/Rohrmeier---2020---The-Syntax-of-Jazz-Harmony-Diatonic-Tonal-b6eoz.pdf)  (by [Martin Rohrmeier](https://people.epfl.ch/martin.rohrmeier?lang=en)).
 
 ## Remarks
 
