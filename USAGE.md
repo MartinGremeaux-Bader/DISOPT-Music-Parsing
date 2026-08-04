@@ -10,7 +10,7 @@
 
 - definitions : Define the class Chord and lists of chords that are used in every file.
 
-- datas_setup : Where the grammar is constructed, and where you can change parameters like which weght function is used or which rule is in the grammar.
+- data_setup : Where the grammar is constructed, and where you can change parameters like which weight function is used or which rule is in the grammar.
 Hopefully for using this programm you will only need to modify this file.
 
 - Starting_Matrix : Where the starting matrix in input of the algorithm is computed.
