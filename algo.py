@@ -1,4 +1,4 @@
-from datas_setup import Chord, Rules, Terminal_rules, Weight, Terminal_elem, Start, P_Matrix
+from data_setup import Chord, Rules, Terminal_rules, Weight, Terminal_elem, Start, P_Matrix
 
 # NOTE : the algorthm would work just fine if you were to put another grammar in it,
 # but for the type check I had to force chords into parameters.
